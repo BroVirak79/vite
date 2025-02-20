@@ -1,4 +1,4 @@
-MMinecraft<p align="center">
+MMinecraft<p align="center">Minecraft: Play with Friends Mod 1.21.70.23
   <a href="https://vite.dev" target="_blank" rel="noopener noreferrer">
     <img width="180" src="https://vite.dev/logo.svg" alt="Vite logo">
   </a>
